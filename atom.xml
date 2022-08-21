@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jerry&amp;Tom</title>
+  <icon>https://akidaa.me/images/avatar-32.ico</icon>
+  
+  <link href="https://akidaa.me/atom.xml" rel="self"/>
+  
+  <link href="https://akidaa.me/"/>
+  <updated>2022-08-21T09:04:23.412Z</updated>
+  <id>https://akidaa.me/</id>
+  
+  <author>
+    <name>Jerry&amp;Tom</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://akidaa.me/2022/08/21/hello-world/"/>
+    <id>https://akidaa.me/2022/08/21/hello-world/</id>
+    <published>2022-08-21T09:04:23.412Z</published>
+    <updated>2022-08-21T09:04:23.412Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>自我介绍一哈</title>
+    <link href="https://akidaa.me/2022/08/19/Readme/"/>
+    <id>https://akidaa.me/2022/08/19/Readme/</id>
+    <published>2022-08-19T13:23:03.000Z</published>
+    <updated>2022-08-21T09:04:23.412Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Attention&quot;&gt;&lt;a href=&quot;#Attention&quot; class=&quot;headerlink&quot; title=&quot;Attention!!!&quot;&gt;&lt;/a&gt;Attention!!!&lt;/h1&gt;&lt;p&gt;&lt;img</summary>
+        
+      
+    
+    
+    
+    
+    <category term="牢骚" scheme="https://akidaa.me/tags/%E7%89%A2%E9%AA%9A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://akidaa.me/2022/08/19/test/"/>
+    <id>https://akidaa.me/2022/08/19/test/</id>
+    <published>2022-08-19T07:19:53.000Z</published>
+    <updated>2022-08-21T09:04:23.412Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;style&gt;@keyframes gradientBG{0%{background-position: 0% 50%;}50%{background-position: 100% 50%;}100% {background-position: 0%</summary>
+        
+      
+    
+    
+    
+    
+    <category term="test" scheme="https://akidaa.me/tags/test/"/>
+    
+  </entry>
+  
+</feed>
